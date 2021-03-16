@@ -1,2 +1,2 @@
-# Teste Jupiter
- Luas jupterianas
+# Teste Júpiter
+ Luas jupiterianas e suas particularidades.
