@@ -1,2 +1,2 @@
 # Teste Jupiter
- Luas jupterianas
+ Luas jupiterianas
